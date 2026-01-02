@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋, I'm Yash
 
-<!--
-**YashKachaRK/YashKachaRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | React ⚛️ + Java ☕
 
-Here are some ideas to get you started:
+I'm a passionate **Full Stack Developer** specializing in **React (Frontend)** and **Java (Backend)**. I love building clean, scalable, and user-friendly web applications while continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portfolio:** [https://portfolio-react-mu-snowy-24.vercel.app/](https://portfolio-react-mu-snowy-24.vercel.app/)
+
+---
+
+## 🧑‍💻 About Me
+
+* 🔭 Currently working on full-stack web projects
+* 🌱 Improving skills in **React, Java, Spring Boot & REST APIs**
+* 💡 Interested in problem-solving and system design
+* 🎯 Goal: Become a strong software engineer & build real-world products
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* ⚛️ React
+* 🟨 JavaScript (ES6+)
+* 🟦 HTML5
+* 🎨 CSS3 / Tailwind CSS
+
+### Backend
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔗 REST APIs
+* 🗄️ JDBC / JPA
+
+### Database
+
+* 🐬 MySQL
+
+### Tools & Platforms
+
+* 🧰 Git & GitHub
+* 🖥️ VS Code
+* 🧪 Postman
+
+---
+
+## 📌 Projects
+
+### 🌐 Portfolio Website
+
+A personal portfolio website built with **React** to showcase my skills and projects.
+
+🔗 Live: [https://portfolio-react-mu-snowy-24.vercel.app/](https://portfolio-react-mu-snowy-24.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
+
+*(Add GitHub stats cards here if you want later)*
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Portfolio: [https://portfolio-react-mu-snowy-24.vercel.app/](https://portfolio-react-mu-snowy-24.vercel.app/)
+* 💼 LinkedIn: *(add your LinkedIn link)*
+* 📧 Email: *(add your email)*
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
