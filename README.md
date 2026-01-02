@@ -58,6 +58,7 @@ A personal portfolio website built with **React** to showcase my skills and proj
 ## 📊 GitHub Stats
 
 *(Add GitHub stats cards here if you want later)*
+![Yash Kacha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashKachaRK&show_icons=true&theme=tokyonight)
 
 ---
 
