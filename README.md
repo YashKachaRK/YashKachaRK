@@ -56,10 +56,8 @@ A personal portfolio website built with **React** to showcase my skills and proj
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashKachaRK&show_icons=true&theme=tokyonight&cache_seconds=86400&rank_icon=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashKachaRK&show_icons=true&theme=tokyonight)
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YashKachaRK&theme=tokyonight)
 
 ---
 
