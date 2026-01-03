@@ -30,8 +30,6 @@ I'm a passionate **Full Stack Developer** specializing in **React (Frontend)** a
 
 * ☕ Java
 * 🌱 Spring Boot
-* 🔗 REST APIs
-* 🗄️ JDBC / JPA
 
 ### Database
 
@@ -41,7 +39,6 @@ I'm a passionate **Full Stack Developer** specializing in **React (Frontend)** a
 
 * 🧰 Git & GitHub
 * 🖥️ VS Code
-* 🧪 Postman
 
 ---
 
@@ -55,8 +52,6 @@ A personal portfolio website built with **React** to showcase my skills and proj
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashKachaRK&show_icons=true&theme=tokyonight&cache_seconds=86400&rank_icon=github)
 
 
 ---
@@ -65,7 +60,7 @@ A personal portfolio website built with **React** to showcase my skills and proj
 
 * 🌐 Portfolio: [https://portfolio-react-mu-snowy-24.vercel.app/](https://portfolio-react-mu-snowy-24.vercel.app/)
 * 💼 LinkedIn: *(add your LinkedIn link)*
-* 📧 Email: *(add your email)*
+* 📧 Email: *(ykacha243@rku.ac.in)*
 
 ---
 
