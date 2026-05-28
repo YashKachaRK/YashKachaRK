@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Yash<br><br>💻 Full Stack Developer Learner<br>🌱 Currently learning React.js, Node.js, Express.js, and MongoDB<br>🚀 Building projects to improve my development skills<br>📚 Interested in Web Development and Backend APIs<br>⚡ Love coding and learning new technologies<br><br>## 🛠 Skills<br><br>* HTML<br>* CSS<br>* JavaScript<br>* React.js<br>* Node.js<br>* Express.js<br>* MongoDB<br><br><br>
+# Hi 👋, I'm Yash<br><br>💻 Full Stack Developer Learner<br>🌱 Currently learning React.js, Node.js, Express.js, and MongoDB<br>🚀 Building projects to improve my development skills<br>📚 Interested in Web Development and Backend APIs<br>⚡ Love coding and learning new technologies<br><br
 ## 🌐 Portfolio
 
 🚀 Live Portfolio: https://portfolio-react-mu-snowy-24.vercel.app/
